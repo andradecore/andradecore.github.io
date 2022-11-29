@@ -73,7 +73,7 @@ const CONFIG = {
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #0F65AC, #BD0AA1)',
       icon: 'dplus',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Programming',
