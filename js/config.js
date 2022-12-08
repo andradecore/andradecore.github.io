@@ -174,6 +174,15 @@ const CONFIG = {
       icon: 'discord',
       quickLaunch: false,
     },
+    {
+      category: 'Social',
+      name: '1500chan',
+      key: '15',
+      url: 'https://1500chan.org/',
+      color: '#69823A',
+      icon: '1500chan',
+      quickLaunch: false,
+    },
 
 
   ],
