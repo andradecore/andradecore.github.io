@@ -7,9 +7,9 @@ const CONFIG = {
    * Update line 11 and 13 if you prefer using Google.
    */
   commands: [{
-      name: 'SearXNG',
+      name: 'SearX',
       key: '*',
-      url: 'https://searx.fmac.xyz/',
+      url: 'https://searx.fmac.xyz',
       search: '/?q={}'
     },
 
