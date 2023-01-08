@@ -4,4 +4,4 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/105821940/206528961-d76b29c5-6f54-49aa-95cf-07cc85690d00.png"/> </p>
 
-Not created be me hehe, it's my personal configs from [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced)
+Not created be me, it's my personal configs from [Tilde Enhanced](https://github.com/Ozencb/tilde-enhanced)
