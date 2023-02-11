@@ -205,7 +205,7 @@ const CONFIG = {
       limit: 1
     },
     {
-      name: 'LinXer',
+      name: 'DuckDuckGo',
       limit: 4
     },
   ],
