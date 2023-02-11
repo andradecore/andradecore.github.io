@@ -7,10 +7,10 @@ const CONFIG = {
    * Update line 11 and 13 if you prefer using Google.
    */
   commands: [{
-      name: 'DuckDuckGo',
+      name: 'LinXer',
       key: '*',
-      url: 'https://duckduckgo.com',
-      search: '/?q={}'
+      url: 'https://linxer.org/',
+      search: '/search.php?q={}'
     },
 
 
@@ -205,7 +205,7 @@ const CONFIG = {
       limit: 1
     },
     {
-      name: 'DuckDuckGo',
+      name: 'LinXer',
       limit: 4
     },
   ],
