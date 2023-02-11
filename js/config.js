@@ -7,10 +7,10 @@ const CONFIG = {
    * Update line 11 and 13 if you prefer using Google.
    */
   commands: [{
-      name: 'Google',
+      name: 'LinXer',
       key: '*',
-      url: 'https://www.google.com/',
-      search: '/search?client'
+      url: 'https://linxer.org/',
+      search: '/search.php?q={}'
     },
 
 
