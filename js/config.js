@@ -126,6 +126,15 @@ const CONFIG = {
     },
 
     {
+      category: 'Other',
+      name: 'Instagram',
+      key: 'i',
+      url: 'https://www.instagram.com',
+      color: 'linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d)',
+      icon: 'instagram',
+      quickLaunch: true,
+    },
+    {
       category: 'Social',
       name: 'Pinterest',
       key: 'pt',
