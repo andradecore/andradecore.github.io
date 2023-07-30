@@ -126,7 +126,7 @@ const CONFIG = {
     },
 
     {
-      category: 'Other',
+      category: 'Social',
       name: 'Instagram',
       key: 'i',
       url: 'https://www.instagram.com',
