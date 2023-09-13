@@ -84,6 +84,26 @@ const CONFIG = {
       icon: 'mdn',
       quickLaunch: false,
     },
+    {
+      category: 'Programming',
+      name: 'HackerNews',
+      key: 'h',
+      url: 'https://news.ycombinator.com/',
+      search: '/search?stories[query]={}',
+      color: 'linear-gradient(135deg, #FF6600, #DC5901)',
+      icon: 'hackernews',
+      quickLaunch: false,
+    },
+    {
+      category: 'Programming',
+      name: 'MDN',
+      key: 'md',
+      url: 'https://developer.mozilla.org/en-US',
+      search: '/search?q={}',
+      color: '#212121',
+      icon: 'mdn',
+      quickLaunch: false,
+    },
 
 
     {
@@ -107,6 +127,15 @@ const CONFIG = {
     },
     {
       category: 'Streaming',
+      name: 'Prime Video',
+      key: 'pv',
+      url: 'https://www.primevideo.com',
+      color: 'linear-gradient(135deg, #002962, #36c2ea)',
+      icon: 'hbo',
+      quickLaunch: false,
+    },    
+    {
+      category: 'Streaming',
       name: 'Spotify',
       key: 's',
       url: 'https://open.spotify.com/',
@@ -115,7 +144,6 @@ const CONFIG = {
       icon: 'spotify',
       quickLaunch: false,
     },
-
     {
       category: 'Social',
       name: 'Instagram',
