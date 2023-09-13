@@ -88,7 +88,8 @@ const CONFIG = {
       category: 'Programming',
       name: 'HackerNews',
       key: 'h',
-      url: 'https://news.ycombinator.com/',
+i
+     url: 'https://news.ycombinator.com/',
       search: '/search?stories[query]={}',
       color: 'linear-gradient(135deg, #FF6600, #DC5901)',
       icon: 'hackernews',
@@ -131,7 +132,7 @@ const CONFIG = {
       key: 'pv',
       url: 'https://www.primevideo.com',
       color: 'linear-gradient(135deg, #002962, #36c2ea)',
-      icon: 'hbo',
+      icon: 'primevideo',
       quickLaunch: false,
     },    
     {
