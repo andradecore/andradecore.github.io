@@ -60,8 +60,7 @@ const CONFIG = {
       key: 'g',
       url: 'https://github.com',
       search: '/search?q={}',
-
-	    color: 'linear-gradient(135deg, #2b2b2b, #3b3b3b)',
+      color: 'linear-gradient(135deg, #2b2b2b, #3b3b3b)',
       icon: 'github',
       quickLaunch: true,
     },
