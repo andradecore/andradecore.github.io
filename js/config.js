@@ -126,7 +126,7 @@ const CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'Other',
+      category: 'Social',
       name: 'Twitter',
       key: 't',
       url: 'https://www.twitter.com',
