@@ -93,16 +93,6 @@ const CONFIG = {
       icon: 'hackernews',
       quickLaunch: false,
     },
-    {
-      category: 'Programming',
-      name: 'MDN',
-      key: 'md',
-      url: 'https://developer.mozilla.org/en-US',
-      search: '/search?q={}',
-      color: '#212121',
-      icon: 'mdn',
-      quickLaunch: false,
-    },
 
 
     {
@@ -161,15 +151,6 @@ const CONFIG = {
       color: 'linear-gradient(135deg, #1DA1F2, #19608F)',
       icon: 'twitter',
       quickLaunch: true,
-    },
-    {
-      category: 'General',
-      name: 'Discord',
-      key: 'dc',
-      url: 'https://discord.com/app',
-      color: '#7289da',
-      icon: 'discord',
-      quickLaunch: false,
     },
     {
       category: 'Social',
