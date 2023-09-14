@@ -153,8 +153,8 @@ template {
 
 :root {
   /* colors */
-  --background: #000000;
-  --foreground: #ffffff;
+  --background: #2c2c41;
+  --foreground: #e29a62;
 
   /* fonts */
   --base-font-size: 18px;
