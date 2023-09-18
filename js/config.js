@@ -62,7 +62,7 @@ const CONFIG = {
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #2b2b2b, #3b3b3b)',
       icon: 'github',
-      quickLaunch: true,
+      quickLaunch: false,
     },
     {
       category: 'Programming',
