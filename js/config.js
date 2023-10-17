@@ -86,7 +86,7 @@ const CONFIG = {
     {
       category: 'Programming',
       name: 'HackerNews',
-      key: 'h',
+      key: 'hn',
       url: 'https://news.ycombinator.com/',
       search: '/search?stories[query]={}',
       color: 'linear-gradient(135deg, #FF6600, #DC5901)',
