@@ -81,7 +81,7 @@ const CONFIG = {
     category: 'Streaming',
     name: 'YouTube',
     key: 'y',
-    url: 'https://youtube.com',
+    url: 'https://yewtu.be/',
     search: '/results?search_query={}',
     color: 'linear-gradient(135deg, #cd201f, #cd4c1f)',
     icon: 'youtube',
