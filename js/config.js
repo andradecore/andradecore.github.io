@@ -7,9 +7,9 @@ const CONFIG = {
    * Update line 11 and 13 if you prefer using Google.
    */
   commands: [{
-    name: 'SearX',
+    name: 'Google',
     key: '*',
-    url: 'https://searx.daetalytica.io/',
+    url: 'https://google.com/',
     search: '/search?q={}'
   },
 
