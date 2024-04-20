@@ -99,9 +99,9 @@ const CONFIG = {
   },
   {
     category: 'Streaming',
-    name: 'HBO Max',
+    name: 'Max',
     key: 'h',
-    url: 'https://play.hbomax.com/page/urn:hbo:page:home',
+    url: 'https://play.max.com/page/home',
     color: 'linear-gradient(135deg, #8C27E6, #3F75D5)',
     icon: 'hbo',
     quickLaunch: false,
