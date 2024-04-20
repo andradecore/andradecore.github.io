@@ -101,7 +101,7 @@ const CONFIG = {
     category: 'Streaming',
     name: 'Max',
     key: 'h',
-    url: 'https://play.max.com/page/home',
+    url: 'https://play.max.com/',
     color: 'linear-gradient(135deg, #8C27E6, #3F75D5)',
     icon: 'hbo',
     quickLaunch: false,
