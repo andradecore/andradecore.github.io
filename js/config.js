@@ -91,7 +91,7 @@ const CONFIG = {
     category: 'Streaming',
     name: 'YouTube Music',
     key: 'ym',
-    url: 'https://sptl.ggtyler.dev/',
+    url: 'https://hp.ggtyler.dev/',
     search: '/results?search_query={}',
     color: 'linear-gradient(135deg, #cd201f, #cd4c1f)',
     icon: 'youtube',
