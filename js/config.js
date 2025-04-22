@@ -37,7 +37,7 @@ const CONFIG = {
     category: 'General',
     name: 'Translate',
     key: 'tr',
-    url: 'https://sptl.ggtyler.dev/',
+    url: 'https://www.deepl.com/pt-BR/translator/',
     search: '/#view=home&op=translate&sl=auto&tl=en&text={}',
     color: '#1a73e8',
     icon: 'translate',
